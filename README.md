@@ -157,9 +157,10 @@ things you need to change:
 ## A note on the use of AI
 
 I used Claude Opus 5 to improve the documentation and comments in this
-repo (including this README file). The code itself was not AI generated,
-although I implemented a few changes after requesting feedback.
-I reviewed and tested all notebooks manually.
+repo (including this README file). The code in the notebooks was not generated
+with AI, although I implemented a few changes after requesting feedback. The 
+utility scripts were created with AI assistance. I reviewed and tested all 
+notebooks and scripts manually.
 
 ## License
 
